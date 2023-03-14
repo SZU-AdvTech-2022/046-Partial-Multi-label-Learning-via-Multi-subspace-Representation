@@ -1,0 +1,7 @@
+@inproceedings{REPO-046,
+    author = "Li, Ziwei and Lyu, Gengyu and Feng, Songhe",
+    booktitle = "Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence",
+    pages = "2612--2618",
+    title = "{Partial Multi-label Learning via Multi-subspace Representation}",
+    year = "2021"
+}
